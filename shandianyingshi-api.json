@@ -568,6 +568,15 @@
         "大陆剧",
         "邵氏电影"
       ]
+    },
+    {
+      "key": "mac",
+      "name": "苹果",
+      "type": 1,
+      "api": "https://cj.maczy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
