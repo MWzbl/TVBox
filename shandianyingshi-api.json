@@ -592,7 +592,14 @@
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "国产剧",
+        "短剧"
+      ]
     }
   ]
 }
