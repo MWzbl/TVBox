@@ -251,7 +251,7 @@
         "国产剧",
         "邵氏电影"
       ]
-    },    
+    },
     {
       "key": "jy",
       "name": "金鹰",
@@ -550,7 +550,7 @@
         "动画片",
         "国产剧"
       ]
-    },    
+    },
     {
       "key": "bd",
       "name": "百度",
@@ -584,6 +584,15 @@
         "海外动漫",
         "国产剧"
       ]
+    },
+    {
+      "key": "wl",
+      "name": "卧龙",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
