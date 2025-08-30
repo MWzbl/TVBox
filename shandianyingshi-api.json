@@ -1,41 +1,6 @@
 {
   "sites": [
     {
-      "key": "iqiyi",
-      "name": "爱奇艺",
-      "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "动漫电影",
-        "国产剧",
-        "短剧"
-      ]
-    },
-    {
-      "key": "mt",
-      "name": "茅台",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日本动漫",
-        "欧美电影",
-        "海外动漫",
-        "动漫",
-        "国产剧",
-        "连续剧"
-      ]
-    },
-    {
       "key": "dytt",
       "name": "电影天堂",
       "type": 1,
@@ -50,6 +15,76 @@
         "港台动漫",
         "海外动漫",
         "动画片",
+        "国产剧",
+        "短剧"
+      ]
+    },
+    {
+      "key": "bf",
+      "name": "暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "动画片",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "my",
+      "name": "猫眼",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "动画片",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "yz",
+      "name": "优质",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "国产剧",
+        "短剧大全"
+      ]
+    },
+    {
+      "key": "lz",
+      "name": "量子",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
         "国产剧",
         "短剧"
       ]
@@ -74,10 +109,10 @@
       ]
     },
     {
-      "key": "lz",
-      "name": "量子",
+      "key": "ff",
+      "name": "非凡",
       "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -87,6 +122,95 @@
         "欧美动漫",
         "港台动漫",
         "海外动漫",
+        "国产剧",
+        "短剧"
+      ]
+    },
+    {
+      "key": "zd",
+      "name": "最大",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "动画片",
+        "国产剧",
+        "邵氏电影"
+      ]
+    },
+    {
+      "key": "mt",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美电影",
+        "海外动漫",
+        "动漫",
+        "国产剧",
+        "连续剧"
+      ]
+    },
+    {
+      "key": "md",
+      "name": "魔都",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "动漫电影",
+        "国产剧",
+        "短剧"
+      ]
+    },
+    {
+      "key": "wj",
+      "name": "无尽",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "动画片",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "iqiyi",
+      "name": "爱奇艺",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动漫电影",
         "国产剧",
         "短剧"
       ]
@@ -110,42 +234,6 @@
       ]
     },
     {
-      "key": "ff",
-      "name": "非凡",
-      "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "国产剧",
-        "短剧"
-      ]
-    },
-    {
-      "key": "yz",
-      "name": "优质",
-      "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "国产剧",
-        "短剧大全"
-      ]
-    },
-    {
       "key": "sn",
       "name": "索尼",
       "type": 1,
@@ -163,43 +251,7 @@
         "国产剧",
         "邵氏电影"
       ]
-    },
-    {
-      "key": "bf",
-      "name": "暴风",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "动画片",
-        "国产剧"
-      ]
-    },
-    {
-      "key": "md",
-      "name": "魔都",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "动漫电影",
-        "国产剧",
-        "短剧"
-      ]
-    },
+    },    
     {
       "key": "jy",
       "name": "金鹰",
@@ -246,24 +298,6 @@
         "动画片",
         "内地剧",
         "短剧"
-      ]
-    },
-    {
-      "key": "wj",
-      "name": "无尽",
-      "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "动画片",
-        "国产剧"
       ]
     },
     {
@@ -347,24 +381,6 @@
         "动画片",
         "内地剧",
         "短剧"
-      ]
-    },
-    {
-      "key": "zd",
-      "name": "最大",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "海外动漫",
-        "动画片",
-        "国产剧",
-        "邵氏电影"
       ]
     },
     {
@@ -479,7 +495,7 @@
       ]
     },
     {
-      "key": "yjx",
+      "key": "tp",
       "name": "淘片",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
@@ -534,23 +550,7 @@
         "动画片",
         "国产剧"
       ]
-    },
-    {
-      "key": "my",
-      "name": "猫眼",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "动画片",
-        "国产剧"
-      ]
-    },
+    },    
     {
       "key": "bd",
       "name": "百度",
